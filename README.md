@@ -1,4 +1,4 @@
-#Implementing the Periscope App Pull-to-refresh 
+# Implementing the Periscope App Pull-to-refresh 
 
 This is the code for the **ThinkAndBuild** tutorial that shows how to implement a pull to refresh control similar to the one implemented in [Periscope for iOS](https://itunes.apple.com/it/app/periscope/id972909677?mt=8). 
 
